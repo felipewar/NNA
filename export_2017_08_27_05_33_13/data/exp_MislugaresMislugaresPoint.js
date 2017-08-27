@@ -1,0 +1,14 @@
+var exp_MislugaresMislugaresPoint = {
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Name": "banguelo", "description": null, "timestamp": null, "begin": null, "end": null, "altitudeMode": null, "tessellate": -1, "extrude": 0, "visibility": -1, "drawOrder": null, "icon": null }, "geometry": { "type": "Point", "coordinates": [ -70.738593794877403, -33.418468743719103, 0.330382797366436 ] } },
+{ "type": "Feature", "properties": { "Name": "Casa-PP", "description": null, "timestamp": null, "begin": null, "end": null, "altitudeMode": null, "tessellate": -1, "extrude": 0, "visibility": -1, "drawOrder": null, "icon": null }, "geometry": { "type": "Point", "coordinates": [ -70.738571426972058, -33.418965054124392, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Familiar-mahe2040302", "description": null, "timestamp": null, "begin": null, "end": null, "altitudeMode": null, "tessellate": -1, "extrude": 0, "visibility": -1, "drawOrder": null, "icon": null }, "geometry": { "type": "Point", "coordinates": [ -70.76441566800915, -33.420151163539742, 5.770365072128466 ] } },
+{ "type": "Feature", "properties": { "Name": "Casa-RD", "description": null, "timestamp": null, "begin": null, "end": null, "altitudeMode": null, "tessellate": -1, "extrude": 0, "visibility": -1, "drawOrder": null, "icon": null }, "geometry": { "type": "Point", "coordinates": [ -70.755125751393464, -33.41969681273671, 1.338915505179319 ] } },
+{ "type": "Feature", "properties": { "Name": "Los Conquisadores, pje. Vir 1789 A", "description": null, "timestamp": null, "begin": null, "end": null, "altitudeMode": null, "tessellate": -1, "extrude": 0, "visibility": -1, "drawOrder": null, "icon": null }, "geometry": { "type": "Point", "coordinates": [ -70.7459051877116, -33.423776894822623, 0.569177202349762 ] } },
+{ "type": "Feature", "properties": { "Name": "pablo VI", "description": null, "timestamp": null, "begin": null, "end": null, "altitudeMode": null, "tessellate": -1, "extrude": 0, "visibility": -1, "drawOrder": null, "icon": null }, "geometry": { "type": "Point", "coordinates": [ -70.755217641144796, -33.430138453978067, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Casa SP", "description": null, "timestamp": null, "begin": null, "end": null, "altitudeMode": null, "tessellate": -1, "extrude": 0, "visibility": -1, "drawOrder": null, "icon": null }, "geometry": { "type": "Point", "coordinates": [ -70.747923483163362, -33.41769731513488, 0.221140394992515 ] } },
+{ "type": "Feature", "properties": { "Name": "pettersen ", "description": null, "timestamp": null, "begin": null, "end": null, "altitudeMode": null, "tessellate": -1, "extrude": 0, "visibility": -1, "drawOrder": null, "icon": null }, "geometry": { "type": "Point", "coordinates": [ -70.747072594052113, -33.413335520169767, 0.0 ] } }
+]
+}
